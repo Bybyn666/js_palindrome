@@ -6,7 +6,7 @@ The module can be used as follows:
 
 * $ npm install --global bybyn-palindrome
 * $ vim test.js
-* let Phrase = require("mhartl-palindrome");
+* let Phrase = require("bybyn-palindrome");
 * let napoleonsLament = new Phrase("Able was I, ere I saw Elba.");
 * console.log(napoleonsLament.palindrome());
 * $ node test.js
